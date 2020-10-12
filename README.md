@@ -1,4 +1,4 @@
-# Postgres Data Modelling
+# Spark Data Lake
 
 ## Project Summary
 
